@@ -5,9 +5,9 @@
 Download and Execute the Script
 
 
-**Using curl:**
+**Using wget:**
 ```bash
-sudo wget -qO - https://bit.ly/rootlogin | bash
+wget -qO - https://bit.ly/rootlogin | sudo bash
 ```
 
 
