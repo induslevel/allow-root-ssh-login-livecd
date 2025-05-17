@@ -7,7 +7,7 @@ Download and Execute the Script
 
 **Using curl:**
 ```bash
-curl -sL https://bit.ly/rootlogin | bash
+sudo wget -qO - https://bit.ly/rootlogin | bash
 ```
 
 
